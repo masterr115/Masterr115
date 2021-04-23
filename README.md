@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/masterr144" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="masterr144" height="30" width="40" /></a>
-<a href="#" target="blank" title="Masterr#3556"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-5.png" alt="Masterr#3556" height="30" width="40" /></a>
+<a href="#" target="blank" title="Masterr#3556"><img align="center" src="https://forum.muzago.net/uploads/monthly_2020_03/discord-logo-01.png.9ef565ad7e5ba4dca93fd8e644cb18b5.png" alt="Masterr#3556" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
