@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/masterr144" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="masterr144" height="30" width="40" /></a>
+<a href="#" target="blank" title="Masterr#3556"><img align="center" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" alt="Masterr#3556" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
