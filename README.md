@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/masterr144" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-do-iacute-cone-do-twitter-by-vexels.png" alt="masterr144" height="30" width="40" /></a>
+<a href="https://twitter.com/masterr144" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/409-4097837_transparent-background-twitter-logo-hd-png-download.png" alt="masterr144" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
