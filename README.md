@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **React, React Native, Node.js and Go.**
 
-- ⚡ Fun fact **I think I'm creative :D**
+- 📫 How to reach me **eu@andrecontiero.com**
+
+- ⚡ Fun fact **I'm creative :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
