@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, React Native, Node.js and Go.**
 
-- 📫 How to reach me **eu@andrecontiero.com**
+- 📫 How to reach me **andre.contiero@yahoo.com.br**
 
 - ⚡ Fun fact **I'm creative :D**
 
