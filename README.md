@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Contiero</h1>
-<h3 align="center">I'm a backend developer from Brazil</h3>
+<h3 align="center">I'm a backend and mobile developer from Brazil</h3>
 
 <p align="left"> <a href="https://twitter.com/masterr144" target="blank"><img src="https://img.shields.io/twitter/follow/masterr144?logo=twitter&style=for-the-badge" alt="masterr144" /></a> </p>
 
