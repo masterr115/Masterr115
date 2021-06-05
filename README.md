@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hylex Inc](https://github.com/redestone)
 
-- 🌱 I’m currently learning **Front-End side.**
+- 🌱 I’m currently learning **Front-End side and Mobile.**
 
 - 💬 Ask me about **React, React Native, Node.js and Go.**
 
