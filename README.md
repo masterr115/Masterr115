@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-End side and Mobile.**
 
-- 💬 Ask me about **React, React Native, Node.js and Go.**
+- 💬 Ask me about **React, React Native, Node.js, Python and Go.**
 
 - 📫 How to reach me **andre.contiero@yahoo.com.br**
 
