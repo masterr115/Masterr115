@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/masterr144" target="blank"><img src="https://img.shields.io/twitter/follow/masterr144?logo=twitter&style=for-the-badge" alt="masterr144" /></a> </p>
 
-- 🔭 I’m currently working on [Hylex Inc](https://github.com/redestone)
-
 - 🌱 I’m currently learning **Front-End side and Mobile.**
 
 - 💬 Ask me about **React, React Native, Node.js, Python and Go.**
