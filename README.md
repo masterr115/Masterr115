@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Front-End side and Mobile.**
 
-- 💬 Ask me about **React, React Native, Node.js, Python and Go.**
+- 💬 Ask me about **Node.js, NestJS, TypeScript.**
 
-- 📫 How to reach me **andre.contiero@yahoo.com.br**
+- 📫 How to reach me **contato@andrecontiero.com**
 
 - ⚡ Fun fact **I'm creative :D**
 
