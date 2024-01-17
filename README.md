@@ -1,30 +1,9 @@
-<h1 align="center">Hi 👋, I'm André Contiero</h1>
-<h3 align="center">I'm a backend and mobile developer from Brazil</h3>
+<img src="https://raw.githubusercontent.com/masterr115/Masterr115/main/Computer%20Illustr.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> <a href="https://twitter.com/masterr144" target="blank"><img src="https://img.shields.io/twitter/follow/masterr144?logo=twitter&style=for-the-badge" alt="masterr144" /></a> </p>
+<h1>👋 Olá, sou o <a href="https://www.linkedin.com/in/andr%C3%A9-contiero-3b04581a5/" alt="linkedin">André Contiero</a>.</h1>
 
-- 🌱 I’m currently learning **Front-End side and Mobile.**
+<p align="left"> 
+Desenvolvedor de software especializado na construção de API's, com mais de 4 anos envolvidos em todo o ciclo de vida de desenvolvimento de software fornecendo soluções de TI para organizações públicas e privadas, utilizando as melhores ferramentas e tecnologias do mercado atual. Sou apaixonado por aprender novas tecnologias como NestJS e técnicas como Clean Code e também de encontrar soluções para desafios de trabalho e fazer parte de um ambiente colaborativo.
 
-- 💬 Ask me about **Node.js, NestJS, TypeScript.**
-
-- 📫 How to reach me **contato@andrecontiero.com**
-
-- ⚡ Fun fact **I'm creative :D**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/masterr144" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="masterr144" height="30" width="30" /></a>
-<a href="#" target="blank" title="Masterr#3556"><img align="center" src="https://forum.muzago.net/uploads/monthly_2020_03/discord-logo-01.png.9ef565ad7e5ba4dca93fd8e644cb18b5.png" alt="Masterr#3556" height="30" width="40" /></a>
-<a href="https://instagram.com/andre_contiero" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="andre_contiero" height="30" width="40" /></a>
+💼  Aqui estão algumas tecnologias com as quais tenho trabalhado recentemente: JavaScript, TypeScript, NestJS, MySQL, AWS, Docker, Git.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterr115&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="masterr115" /></p>
-
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterr115&show_icons=true&locale=en&theme=tokyonight" alt="masterr115" /></p>
